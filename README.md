@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, it's me, Mihail
+
+Need your Home Assistant to be aware of your local bus stop's arrivals? 
+
+Want to self-host a collection manager for your favourite card games? 
+
+Want to evolve a lot with some genetic algorithms?
+
+All this, and more, on this episode of random Git profile.
+
+[And also this website.](https://www.morosanmihail.com)
 
 <!--
 **morosanmihail/morosanmihail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
